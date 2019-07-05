@@ -604,6 +604,14 @@
       careers: 'https://zerocater.com/about/careers/',
       address: '127 E Riverside Dr #101, Austin, TX 78704',
       plusCode: '7743+6Q Austin, Texas'
+    },
+
+    {
+      name: 'James lockwood',
+      homepage: 'https://www.companyname.com/',
+      careers: 'https://www.companyname.com/jobs/',
+      address: '123 E 6th St, Austin, TX 78701',
+      plusCode: '1234+4H Austin, Texas'
     }
   ]
   // THE LIST ENDS HERE
